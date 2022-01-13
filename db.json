@@ -10,12 +10,12 @@
         "id": 1,
         "link": "twitter",
         "icon": "fab fa-twitter"
-      }
+      },
       {
         "id": 2,
         "link": "instagram",
         "icon": "fab fa-instagram"
-      },
+      }
 
     ],
     "widgetData_1": [
