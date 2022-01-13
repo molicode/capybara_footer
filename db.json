@@ -4,7 +4,6 @@
     "content": "Lorem CapybaraArt dolor sit amet, consectetur adipisicing elit. Quis non, fugit totam vel laboriosam vitae.",
     "widget_1": "Useful Links",
     "widget_2": "Community",
-    "widget_3": "Subscribe Us",
     "socialData": [
       {
         "id": 1,
@@ -20,23 +19,23 @@
     "widgetData_1": [
       {
         "id": 1,
-        "text": "All NFTs"
+        "text": "Home"
       },
       {
         "id": 2,
-        "text": "How It Works"
+        "text": "About"
       },
       {
         "id": 3,
-        "text": "Create"
+        "text": "Benefits"
       },
       {
         "id": 4,
-        "text": "Explore"
+        "text": "Roadmap"
       },
       {
         "id": 5,
-        "text": "Privacy & Terms"
+        "text": "Team"
       }
     ],
     "widgetData_2": [
