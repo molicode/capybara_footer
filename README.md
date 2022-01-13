@@ -1,6 +1,8 @@
 ## Try it
 
-[https://my-json-server.typicode.com/molicode/demo](https://my-json-server.typicode.com/molicode/demo)
+[https://my-json-server.typicode.com/molicode/capybara_footer
+](https://my-json-server.typicode.com/molicode/capybara_footer
+)
 
 ## Use your own data
 
