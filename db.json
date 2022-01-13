@@ -15,16 +15,6 @@
         "id": 2,
         "link": "twitter",
         "icon": "fab fa-twitter"
-      },
-      {
-        "id": 3,
-        "link": "google-plus",
-        "icon": "fab fa-google-plus-g"
-      },
-      {
-        "id": 4,
-        "link": "vine",
-        "icon": "fab fa-vine"
       }
     ],
     "widgetData_1": [
