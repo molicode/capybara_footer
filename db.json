@@ -7,12 +7,12 @@
     "socialData": [
       {
         "id": 1,
-        "link": "twitter",
+        "link": "https://twitter.com/capybar_art",
         "icon": "fab fa-twitter"
       },
       {
         "id": 2,
-        "link": "instagram",
+        "link": "https://www.instagram.com/capybar.art/",
         "icon": "fab fa-instagram"
       }
     ],
